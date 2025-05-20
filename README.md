@@ -1,4 +1,4 @@
-# Incremental One Shot Federated Learning
+# One Shot Incremental Federated Learning with Selective Sample Retention
 
 
 # OSI-FL
